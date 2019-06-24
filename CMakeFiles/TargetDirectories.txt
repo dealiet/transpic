@@ -1,3 +1,0 @@
-/home/dealiet/cmake/arm_picture_udp/CMakeFiles/rebuild_cache.dir
-/home/dealiet/cmake/arm_picture_udp/CMakeFiles/server.dir
-/home/dealiet/cmake/arm_picture_udp/CMakeFiles/edit_cache.dir
