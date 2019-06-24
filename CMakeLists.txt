@@ -17,3 +17,6 @@ TARGET_LINK_LIBRARIES(server
 pthread
 turbojpeg
 )
+install(TARGETS server
+  RUNTIME DESTINATION
+)
