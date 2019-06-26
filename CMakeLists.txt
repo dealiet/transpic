@@ -26,3 +26,7 @@ TARGET_LINK_LIBRARIES(server
 pthread
 ${TURBO_JPEG_LIBRARIES}
 )
+
+install(TARGETS server
+  RUNTIME DESTINATION bin
+)
